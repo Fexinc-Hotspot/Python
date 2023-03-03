@@ -1,6 +1,5 @@
-#these is inline 
+#Example of Variables
 
-name='bau'
-age=37
-print(name)
-print(age)
+my_string="Hello Python!"
+
+print (my_string)
