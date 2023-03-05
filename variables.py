@@ -115,12 +115,40 @@
 #for i in range(5):
  #   print(Books[i])
 
-#Write a program that uses a dictionary to store information about a person, such as their name, age, and favorite color. Ask the user for input and store the information in the dictionary. Then, print the dictionary to the console.
+#Write a program that uses a dictionary to store information about a person, such as their name, age, and favorite color. 
+#Ask the user for input and store the information in the dictionary. Then, print the dictionary to the console.
+
+#person=dict {
+ # name=input('Enter the person name,age, & color key with its value:').split()
+#for _ in range (2):
+# print(person)
+
+#}
+# 
+#person={}
+  
+#for i in range(1):
+    #name=input('Enter the person name :')
+    #person['Name']=name
+    #age=int(input('Enter a person age :'))
+    #person['Age']=age
+    #color=input('Enter person favorite color :')
+    #person['Color']=color
+  
+#print(person)
 
 
 
-#Write a program that accepts user input to create two sets of integers. Then, create a new set that contains only the elements that are common to both sets.
+#Write a program that accepts user input to create two sets of integers. Then, 
 
 
-#Create a program that stores a list of words. Then, use list comprehension to create a new list that contains only the words that have an odd number of characters.
+# create a new set that contains only the elements that are common to both sets.
+
+
+
+
+
+#Create a program that stores a list of words. Then, 
+# use list comprehension to create a new list that contains only
+# the words that have an odd number of characters.
 

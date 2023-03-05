@@ -1,3 +1,2 @@
 
-    print('\n')
-    
+    person[name]=color
